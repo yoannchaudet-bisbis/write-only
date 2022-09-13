@@ -1,1 +1,3 @@
 # write-only
+
+hello
